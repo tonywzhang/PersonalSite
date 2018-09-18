@@ -3496,6 +3496,8 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+
+
 /* Footer */
 
 	#footer {
@@ -3597,6 +3599,8 @@ input, select, textarea {
 			.dropotron.level-0 {
 				font-size: 1em;
 			}
+
+
 
 		/* Banner */
 
@@ -3704,7 +3708,10 @@ input, select, textarea {
 				padding: 4.5em 0;
 			}
 
+
+
 	}
+
 
 /* Small */
 
